@@ -1,7 +1,7 @@
 baseurl: "https://auzima.github.io/LabVeilTech/"
 languageCode: "en-us"
 title: "Lab Veille tech"
-theme: "xmag"
+theme: "XMag"
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 preserveTaxonomyNames: true
 footnotereturnlinkcontents: "↩"
