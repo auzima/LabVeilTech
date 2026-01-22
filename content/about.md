@@ -2,10 +2,6 @@
 title: À propos
 author: Aurélia Zima
 ---
----
-title: À propos
-author: Aurélia Zima
----
 
 ## Qui je suis
 
@@ -25,7 +21,7 @@ Depuis toujours, j’aime comprendre les comportements, écouter les personnes e
 
 ## Mon domaine de veille : UX Architect Creative
 
-Je suis convaincue que le rôle d’un·e UX Architect dépasse la simple production de wireframes. Il s’agit de donner du sens aux interfaces, de relier les intentions des utilisateurs aux objectifs d’un projet, et de construire des écosystèmes numériques cohérents, accessibles et inclusifs.
+Je suis convaincue que le rôle d’un.e UX Architect dépasse la simple production de wireframes. Il s’agit de donner du sens aux interfaces, de relier les intentions des utilisateurs aux objectifs d’un projet, et de construire des écosystèmes numériques cohérents, accessibles et inclusifs.
 
 À travers ce blog de veille **Labveiltech**, j’analyse le métier d’UX Architect Creative :
 
@@ -33,9 +29,18 @@ Je suis convaincue que le rôle d’un·e UX Architect dépasse la simple produc
 - **Méthodes** de conception centrées utilisateur  
 - **Outils** et pratiques émergentes du design d’expérience  
 
+Cette exploration me permet également d’observer l’évolution du métier, les nouvelles compétences attendues et les tendances du secteur, afin de construire progressivement mon propre positionnement professionnel.
+
 ## Taxonomie
 
-(voir options tableau/colonnes plus bas)
+| Domaine | Sujets |
+|---|---|
+| **UX Architecture** | Architecture de l’information · Parcours utilisateurs · Structuration de systèmes |
+| **UX Research** | Méthodes d’enquête · Tests utilisateurs · Analyse des besoins |
+| **Experience Design** | Storytelling interactif · Design émotionnel · Engagement utilisateur |
+| **Outils & Méthodes** | Wireframing & prototypage · Design systems · Outils collaboratifs UX |
+| **Évolution du métier** | Rôles et compétences · Organisation en entreprise · Tendances du secteur |
+
 
 ## Choix du SSG (Static Site Generator)
 
