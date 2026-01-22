@@ -7,6 +7,11 @@ preserveTaxonomyNames: true
 footnotereturnlinkcontents: "↩"
 hasCJKLanguage: true
 enableEmoji: true
+canonifyURLs: true
+relativeURLs: false
+taxonomies:
+  tag: tags
+  category: categories
 
 pagination:
   pagerSize: 6
